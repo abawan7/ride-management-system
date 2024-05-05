@@ -1,0 +1,10 @@
+Abdullah Awan,29/12/2001,19,3,25000,5,LTV,HTV,Internation,
+Hame Awan,01/02/1996,19,2,25000,4,LTV,HTV,
+papa Awan,23/01/1996,19,2,25000,5,LTV, International.
+Ab Awan,21/11/1996,19,1,25000,5,HTV,
+da Awan,06/08/1996,19,1,25000,4,LTV,
+hamza Awan,05/12/1996,19,1,25000,4,International,
+mushtaq Awan,06/10/1996,19,1,21000,4,HTV,
+ALi Hassan, 07/10/2001,18,3,22000,5,LTV,HTV,International
+Hassan Ameen, 09/11/2001,18,3,22000,5,LTV,HTV,International
+Ali zaidi, 09/11/2001,20,2,23000,5,LTV,HTV,
